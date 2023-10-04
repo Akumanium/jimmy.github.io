@@ -1,0 +1,14 @@
+/*タブレット*/
+@media (max-width: 1000px) {
+    .top-content {
+        width: 50%;
+        margin-bottom: 50px;
+    }
+}
+
+/*スマホ*/
+@media (max-width: 670px) {
+    .top-content {
+        width: 100%;
+    }
+}
